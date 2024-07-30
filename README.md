@@ -6,7 +6,6 @@
 <img src="https://img.icons8.com/color/75/000000/css3.png" width="75" height="75" alt="CSS" style="margin: 10px 15px 0 15px;" />
 <img src="https://img.icons8.com/color/75/000000/javascript.png" width="75" height="75" alt="JavaScript" style="margin: 10px 15px 0 15px;" />
 <img src="https://img.icons8.com/color/75/000000/react-native.png" width="75" height="75" alt="React" style="margin: 10px 15px 0 15px;" />
-
 </p>
 
 - **HTML:** HyperText Markup Language is used to structure the content and layout of the web page. It defines the elements and their hierarchy, ensuring semantic structure for accessibility and SEO benefits.
@@ -15,7 +14,7 @@
 - **React:** A JavaScript library for building user interfaces. React is used in this project to create reusable components and manage the state of the application efficiently.
 
 ### Try it!
-
+https://markdown-prevw-fcc-dev-libs-cert.vercel.app/
 
 ### Functionality
 
